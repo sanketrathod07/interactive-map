@@ -1,7 +1,7 @@
 # Interactive Map
 
-![Project Screenshot](public\assets\demo1.png)
-![Project Screenshot](public\assets\demo2.png)
+![Project Screenshot](https://res.cloudinary.com/dq8b6vgab/image/upload/v1739027668/Screenshot_2025-02-08_202826_nfnsja.png)
+![Project Screenshot](https://res.cloudinary.com/dq8b6vgab/image/upload/v1739027679/Screenshot_2025-02-08_202803_wvxbwu.png)
 
 ## Overview
 
